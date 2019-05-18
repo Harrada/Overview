@@ -2,7 +2,7 @@ Harry Adams
 ============
 
 -------------------     ----------------------------
-Developer              | harryadams321@gmail.com | 
+Developer              | [Email](harryadams321@gmail.com) | 
 [Twitter](https://twitter.com/harrada37) | [StackOverflow](https://stackoverflow.com/users/5636291/haradams) | Brighton 
 UK 
 ----------------------------
