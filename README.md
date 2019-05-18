@@ -3,7 +3,7 @@ Harry Adams
 
 -------------------     ----------------------------
 Developer              | harryadams321@gmail.com | 
-@harrada               | Brighton 
+[@harrada](https://twitter.com/harrada37)               | Brighton 
 UK 
 ----------------------------
 
@@ -50,14 +50,14 @@ Upon completion of my year in industry I was given the oppurtunity to stay worki
 Technical Experience
 --------------------
 
-:   **Python** 
+ *  **Python** 
 
-:   **Java** 
+ *  **Java** 
 
-:   **git**
-.
+ *  **git**
 
-:   Basic knowledge of **JavaScript**, **Django**, 
+
+ *  Basic knowledge of **JavaScript**, **Django**, 
 
 
 Extra's
