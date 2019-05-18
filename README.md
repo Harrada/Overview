@@ -57,7 +57,7 @@ Technical Experience
  *  **git**
 
 
- *  Basic knowledge of **JavaScript**, **Django**, 
+ *  Basic knowledge of **JavaScript**, **Django**, **Bash**, **Linux**
 
 
 Extra's
