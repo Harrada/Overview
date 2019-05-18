@@ -13,7 +13,7 @@ Education
 2014-2019 (expected)
 :   **BSc, Computer Science for Business and Management**; Sussex University (Brighton, UK)
 
-    *Thesis title: Troll's and Control's: A community clustering based analysis of social media propaganda* 
+    Dissertation title: Troll's and Control's: A community clustering based analysis of social media propaganda 
 
 2012-2014
 :   **Reading College**; 
