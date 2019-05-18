@@ -3,7 +3,7 @@ Harry Adams
 
 -------------------     ----------------------------
 Developer              | harryadams321@gmail.com | 
-[@harrada](https://twitter.com/harrada37)               | Brighton 
+[Twitter](https://twitter.com/harrada37) | [StackOverflow](https://stackoverflow.com/users/5636291/haradams) | Brighton 
 UK 
 ----------------------------
 
