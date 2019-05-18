@@ -2,8 +2,8 @@ Harry Adams
 ============
 
 -------------------     ----------------------------
-Developer               harryadams321@gmail.com
-Brighton                @harrada
+Developer              | harryadams321@gmail.com\n
+Brighton               | @harrada
 UK 
 ----------------------------
 
